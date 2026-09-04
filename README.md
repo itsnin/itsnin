@@ -68,13 +68,13 @@
 </tr>
 </table>
 
-### <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&color=E6B3FF&vCenter=true&width=500&lines=what+I'm+into" alt="What I'm into" />
+### <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&color=E6B3FF&vCenter=true&width=500&lines=What+I'm+into" alt="What I'm into" />
 
 ↳ AI — using it, building with it, letting it write my code<br>
 ↳ Automation & DevOps — if I do it twice, I automate it<br>
 ↳ Solving problems that make people's lives easier<br>
 
-### <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&color=B3E6FF&vCenter=true&width=500&lines=currently+dreaming+about" alt="Currently dreaming about" />
+### <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&color=B3E6FF&vCenter=true&width=500&lines=Currently+dreaming+about" alt="Currently dreaming about" />
 
 ↳ [JustBuntu](https://github.com/itsnin/justbuntu) — a one-command setup that turns a fresh Ubuntu install into what it should have been<br>
 ↳ [Spotlight](https://github.com/itsnin/spotlight) — a compact, keyboard-driven launcher for GNOME Shell<br>
